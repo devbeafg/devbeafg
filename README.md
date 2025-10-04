@@ -1,10 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=devbeafg&style=for-the-badge&color=8100A7)
-<div align="right">
-  
-  [GIF Shane Beam](https://giphy.com/shanebeam)
-</div>
-<img src="img/banner.gif" width="100%" cursor="none"/>
-
 
 <h1 align="center" color="8100A7">Seja bem-vindo(a)!<br>Você pode me chamar de Bea!</h1><br>
 <div align="center">
@@ -70,32 +64,24 @@
 
 
 <h2>Análises do perfil</h2>
-
+<div align="center">
 <a href="https://github.com/devbeafg"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbeafg&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000"/>
-
-<a href="https://github.com/devbeafg"><img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=devbeafg&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000"/>
-
-<div align="right">
-  <p align="right">
-    
-  [GIF Pixabay](https://pixabay.com/pt/gifs/papagaio-p%C3%A1ssaro-verde-pixel-19696/)
-    </p>
-</div>
-
-<div align="right">
-  <img src="img/parrot-19696_512.gif" align="right" height="400em"/>
-</div>
+<a href="https://github.com/devbeafg"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=devbeafg&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000"/>
 
 <a href="https://github.com/devbeafg"><img loading="lazy" height="255em" src="https://github-contributor-stats.vercel.app/api?username=devbeafg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=00000000"/><br>
 
 <a href="https://github.com/devbeafg"><img loading="lazy" height="220em" src="https://nirzak-streak-stats.vercel.app/?user=devbeafg&theme=tokyonight&background=00000000"/><br>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+  
+<div align="center">
+  <img src="img/parrot-19696_512.gif" align="center" height="200em"/>
+</div>
+
 
 
 
 <div align="center">
-  <br><br>
   <a href="https://github.com/devbeafg">
     
   <img loading="lazy" height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&backgroundColor=00000000"/>
@@ -103,3 +89,7 @@
 </div>
 
 
+<div align="right">
+
+  [GIF Parrot Pixabay](https://pixabay.com/pt/gifs/papagaio-p%C3%A1ssaro-verde-pixel-19696/)
+</div>
