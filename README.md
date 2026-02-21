@@ -65,8 +65,15 @@
 
 <h2>Análises do perfil</h2>
 <div align="center">
-<a href="https://github.com/devbeafg"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbeafg&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000"/>
-<a href="https://github.com/devbeafg"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=devbeafg&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000"/>
+<a href="https://github.com/devbeafg">
+  <img loading="lazy" height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbeafg&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" />
+</a>
+
+<a href="https://github.com/devbeafg">
+  <img loading="lazy" height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=devbeafg&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000" />
+</a>
 
 <a href="https://github.com/devbeafg"><img loading="lazy" height="255em" src="https://github-contributor-stats.vercel.app/api?username=devbeafg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=00000000"/><br>
 
