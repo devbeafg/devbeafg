@@ -1,12 +1,48 @@
 ![](https://komarev.com/ghpvc/?username=devbeafg&style=for-the-badge&color=8100A7)
 
-<h1 align="center" color="8100A7">Seja bem-vindo(a)!<br>Você pode me chamar de Bea!</h1><br>
+<h1 align="center" color="8100A7">Seja bem-vindo(a)!<br>Eu sou a Bea!! 🌺</h1><br>
 <div align="center">
+  <p>Sou formada em Análise e Desenvolvimento de Sistemas e tenho interesse em construir aplicações que combinem boas práticas de engenharia, arquitetura de software e soluções inteligentes.<br><br>
+Minha trajetória envolve desenvolvimento web e projetos colaborativos. Atualmente, estou aprofundando meus conhecimentos no ecossistema Java, com foco em backend, microsserviços, testes, automação e cloud.</p>
+  
+<h4>Atualmente, minhas prioridades são:</h4>
+- Evoluir na construção de sistemas backend com Java<br>
+- Aplicar princípios de arquitetura e qualidade de software<br>
+- Dominar a esteira de desenvolvimento, CI/CD e deploy<br>
+- Desenvolver autonomia para resolver problemas técnicos mais complexos.<br><br>
+
+<p>Meu objetivo é evoluir como engenheira de software, participando de todas as etapas de desenvolvimento: da concepção à operação de aplicações em produção. Este GitHub não é apenas para armazenar código, mas também para demonstrar como penso, construo, testo e melhoro aplicações.</p>
   <a href="https://www.linkedin.com/in/devbeafg" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/beholding.bea" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/9pkA6dZG" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a>
 </div>
 
+
+<h2>Destaque</h2>
+<h3>Scripto — Biblioteca Inteligente com IA</h3>
+<h4>Projeto colaborativo | Atuação Full Stack e liderança</h4>
+Plataforma de organização de conteúdos com classificação inteligente, recomendações e busca semântica.<br><br>
+<b>Stack do projeto:</b> Java 21, Spring Boot, React, TypeScript, MySQL, PostgreSQL, pgvector, ONNX Runtime e Oracle Cloud.<br><br>
+
+<a href="https://github.com/No-Country-simulation/S1-BR-G9-TEAM07-Scripto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Conheça o-Repositório-brown?style=for-the-badge" target="_blank"></a>
+
+<a href="https://scripto-sepia.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Acesse a-Plataforma-brown?style=for-the-badge" target="_blank"></a>
+
+
+<h2>Próximo projeto — Engenharia Full Stack Java</h2>
+<h3>Nome em breve</h3>
+<h4>Status: planejamento</h4>
+
+Estou estruturando um projeto pessoal para aprofundar o desenvolvimento de aplicações distribuídas e percorrer o ciclo completo de engenharia de software.
+
+<h4>Objetivos de estudo:</h4>
+- APIs REST com Java e Spring Boot<br>
+- Arquitetura de microsserviços<br>
+- Segurança e persistência de dados<br>
+- Testes automatizados e integração contínua<br>
+- Docker, Kubernetes e infraestrutura em nuvem<br>
+- Observabilidade e integração com IA<br><br>
+<p>As etapas serão documentadas no GitHub, incluindo decisões de arquitetura, implementações e aprendizados.</p>
 
 <h2>Tecnologias</h2>
 
